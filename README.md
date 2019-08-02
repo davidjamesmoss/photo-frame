@@ -27,14 +27,17 @@ The app re-scans your shared album on each image change, so new additions to the
 
 ### Mount the iPad in a frame
 iPad mounted in the frame with 6x6mm strip wood glued to mount board to hold it in place. Plug has been stripped down to reduce size.
+
 ![iPad mounted in a frame](https://raw.githubusercontent.com/davidjamesmoss/photo-frame/master/docs/build_1.jpg)
 
-With back panel in place. I made a hole to access the sleep/wake button so that the screen can be turned off if you need to darken the room. Guided access will take you back into the app without needing to unlock the screen. 
+With back panel in place. I made a hole to access the sleep/wake button so that the screen can be turned off if you need to darken the room. Guided access will take you back into the app without needing to unlock the screen.
 
 The back is held in place with two L brackets screwed to the bottom inside edge of the frame and a single bracket screwed in place at the top.
+
 ![Back panel](https://raw.githubusercontent.com/davidjamesmoss/photo-frame/master/docs/build_2.jpg)
 
 Finished result. Lots of reflections in this photo, but it looks great indoors where there is no direct light on it.
+
 ![Finished result](https://raw.githubusercontent.com/davidjamesmoss/photo-frame/master/docs/build_3.jpg)
 
 ### Problems?
